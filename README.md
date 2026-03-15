@@ -12,6 +12,16 @@ Collaborator is an end-to-end environment for agentic development. Terminals, co
 
 The app is early-stage and in active development. macOS only for now.
 
+## Install
+
+**[Download the latest release](https://github.com/collaborator-ai/collab-public/releases/latest)** (macOS, Apple Silicon)
+
+Or install from the command line:
+
+```sh
+curl -fsSL https://raw.githubusercontent.com/collaborator-ai/collab-public/main/install.sh | bash
+```
+
 ## Stack
 
 Collaborator is a native desktop app built with:
@@ -28,16 +38,6 @@ Collaborator is a native desktop app built with:
 - **KaTeX** — math rendering in markdown
 
 All data is stored locally on disk.
-
-## Install
-
-**[Download the latest release](https://github.com/collaborator-ai/collab-public/releases/latest)** (macOS, Apple Silicon)
-
-Or install from the command line:
-
-```sh
-curl -fsSL https://raw.githubusercontent.com/collaborator-ai/collab-public/main/install.sh | bash
-```
 
 ## Quickstart
 
